@@ -1,4 +1,4 @@
-# Customer Support Agent with LangGraph and DeepSeek LLM
+# Customer Support Agent with LangGraph and DeepSeek-R1 LLM
 
 ## Introduction
 
